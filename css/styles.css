@@ -1,0 +1,72 @@
+/**************************************************************/
+/*********************FONDO DE PANTALLA************************/
+body 
+{
+	background: url(imagen.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+/**************************************************************/
+/********************RECUADRO BOTONES INICIO*******************/
+.recuadro
+{
+	background-color:#6E6E6E;
+}
+/**************************************************************/
+/*******************BOTONES INICIO*****************************/
+.btn
+{
+	background: #6E6E6E;
+	color:white;
+	border-style: none;
+	text-align: center;
+	margin-left: 40px;
+	text-shadow: 0 0.2em 0.3em black;
+	margin-left: 100px;
+	}
+/**************************************************************/
+/*******************TITULO*************************************/
+.titulo
+{
+	text-align: center;
+	font-size: 50px;
+	margin-top: 15px;
+	margin-bottom: 30px;
+	text-shadow: 0 0.2em 0.3em black;
+	font-family: utkal;
+	color:white;
+	
+}
+/**************************************************************/
+
+/**************************************************************/
+/*******************RESULST************************************/
+.results
+{
+	color:white;
+	text-shadow: 0 0.1em 0.1em 7F8284;
+}
+/*************************************************************/
+/*******************RESULST************************************/
+.inputData
+{
+	color:white;
+}
+.inputOrder
+{
+	color:white;
+}
+.button
+{
+	color:black;
+	margin-left:390px;
+	font-size:25px;
+	background-color:silver;
+	font-family:utkal;
+	height:25px;
+	border:solid;
+	border-color:#A2A2A6;
+
+}
